@@ -17,13 +17,11 @@ Each day is organized into its respective folder:
 ```
 Day 1
 ├── program1.java
-├── solution.md
-├── iteration-photo.png
+├── solution.md(iteration-photo , some logics)
 
 Day 2
 ├── program2.java
-├── solution.md
-├── iteration-photo.png
+├── solution.md(iteration-photo , some logics)
 
 ...and so on for 100 days.
 ```
