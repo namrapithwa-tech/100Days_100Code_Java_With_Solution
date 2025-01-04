@@ -67,7 +67,7 @@ This repository will be regularly updated. Bookmark it and star the repo to stay
 ## 💡 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/100Days_100Code_Java_With_Solution.git
+   git clone https://github.com/namrapithwa-tech/100Days_100Code_Java_With_Solution.git
    ```
 2. Navigate to the desired day’s folder:
    ```bash
