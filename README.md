@@ -11,19 +11,23 @@ This repository focuses on solving frequently asked coding problems in **Java** 
 
 > **Note:** Python is not used in this series due to specific company restrictions.
 
+## 🎯 Why This Series is Important
+- **Targeted Preparation:** Focuses on problems frequently asked in interviews.
+- **Placement-Oriented:** Questions are sourced from real placement exams and industry requirements.
+- **Skill Showcase:** Demonstrates problem-solving expertise in Java and other languages.
+
+
 ## 📁 Folder Structure
 Each day is organized into its respective folder:
 
 ```
 Day 1
 ├── program1.java
-├── solution.md
-├── iteration-photo.png
+├── solution.md(iteration-photo , some logics)
 
 Day 2
 ├── program2.java
-├── solution.md
-├── iteration-photo.png
+├── solution.md(iteration-photo , some logics)
 
 ...and so on for 100 days.
 ```
@@ -46,11 +50,6 @@ This series includes problems on:
 - Practical scenarios like palindrome checks, Fibonacci series, and more
 
 Each topic is crucial for clearing placement interviews, especially the practical coding rounds.
-
-## 🎯 Why This Series is Important
-- **Targeted Preparation:** Focuses on problems frequently asked in interviews.
-- **Placement-Oriented:** Questions are sourced from real placement exams and industry requirements.
-- **Skill Showcase:** Demonstrates problem-solving expertise in Java and other languages.
 
 ## 🔗 Credit
 All program definitions are provided by the **Training and Placement Cell of Darshan University, Rajkot**. Their insights and guidance have been invaluable in creating this series.
