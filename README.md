@@ -9,12 +9,13 @@ This repository focuses on solving frequently asked coding problems in **Java** 
 - Problem-solving skills
 - Efficient coding practices
 
+> **Note:** Python is not used in this series due to specific company restrictions.
+
 ## 🎯 Why This Series is Important
 - **Targeted Preparation:** Focuses on problems frequently asked in interviews.
 - **Placement-Oriented:** Questions are sourced from real placement exams and industry requirements.
 - **Skill Showcase:** Demonstrates problem-solving expertise in Java and other languages.
 
-> **Note:** Python is not used in this series due to specific company restrictions.
 
 ## 📁 Folder Structure
 Each day is organized into its respective folder:
