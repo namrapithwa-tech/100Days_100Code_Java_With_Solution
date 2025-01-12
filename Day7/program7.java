@@ -1,3 +1,5 @@
+
+// WAP to find a Fibonacci series up to n terms (n is entered by user) (iterative and recursive)
 import java.util.Scanner;
 
 public class program7 {

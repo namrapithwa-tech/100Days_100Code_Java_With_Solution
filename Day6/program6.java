@@ -1,3 +1,8 @@
+// Print a following pattern
+// 1
+// 1 2
+// 1 2 3
+// 1 2 3 4
 public class program6 {
     public static void main(String[] args) {
         int rows = 4; // Number of rows in the pattern

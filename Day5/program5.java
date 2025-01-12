@@ -1,3 +1,5 @@
+
+// WAP to find a summation of a digit of a given number. (Iterative and recursive)
 import java.util.Scanner;
 
 public class program5 {
@@ -23,8 +25,8 @@ public class program5 {
         number = Math.abs(number); // Handle negative numbers
         while (number > 0) {
             int digit = number % 10; // Get the last digit
-            sum += digit;           // Add it to the sum
-            number /= 10;           // Remove the last digit
+            sum += digit; // Add it to the sum
+            number /= 10; // Remove the last digit
         }
         return sum;
     }
@@ -33,8 +35,8 @@ public class program5 {
     public static int sumOfDigitsRecursive(int number) {
         number = Math.abs(number); // Handle negative numbers
         if (number == 0) {
-            return 0; 
+            return 0;
         }
-        return (number % 10) + sumOfDigitsRecursive(number / 10); 
+        return (number % 10) + sumOfDigitsRecursive(number / 10);
     }
 }

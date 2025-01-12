@@ -1,3 +1,5 @@
+
+// WAP to find a factorial of a given integer (iterative and recursive)
 import java.util.Scanner;
 
 public class program4 {
